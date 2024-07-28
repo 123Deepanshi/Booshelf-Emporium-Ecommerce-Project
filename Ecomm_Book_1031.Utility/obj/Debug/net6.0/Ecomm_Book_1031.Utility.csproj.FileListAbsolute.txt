@@ -1,0 +1,36 @@
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.deps.json
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.dll
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.pdb
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.csproj.AssemblyReference.cache
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.AssemblyInfoInputs.cache
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.AssemblyInfo.cs
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.csproj.CoreCompileInputs.cache
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.dll
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\refint\Ecomm_Book_1031.Utility.dll
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.pdb
+D:\ASP.NETCORE\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\ref\Ecomm_Book_1031.Utility.dll
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.deps.json
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.dll
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.pdb
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.csproj.AssemblyReference.cache
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.AssemblyInfoInputs.cache
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.AssemblyInfo.cs
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.csproj.CoreCompileInputs.cache
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.dll
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\refint\Ecomm_Book_1031.Utility.dll
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.pdb
+E:\ABHISHEK\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\ref\Ecomm_Book_1031.Utility.dll
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.deps.json
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.dll
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\bin\Debug\net6.0\Ecomm_Book_1031.Utility.pdb
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.csproj.AssemblyReference.cache
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.AssemblyInfoInputs.cache
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.AssemblyInfo.cs
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.dll
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\refint\Ecomm_Book_1031.Utility.dll
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\Ecomm_Book_1031.Utility.pdb
+D:\Asp.Net Core\Ecomm_Book_1031\Ecomm_Book_1031.Utility\obj\Debug\net6.0\ref\Ecomm_Book_1031.Utility.dll
